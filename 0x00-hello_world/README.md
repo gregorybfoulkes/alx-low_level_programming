@@ -19,3 +19,5 @@ All of the following files are scripts and small programs written in C:
 | [4-puts.c](4-puts.c) | A C program that prints exactley `"Programming is like building a multilingual puzzle`. |
 | [5-printf.c](5-printf.c) | A C program that prints exactley `with proper grammar, but the outcome is a piece of art`.
 | [6-size.c](6-size.c) | A C program that prints the size of various types on the computer it is compiled and run on. |
+| [100-intel](100-intel) | A script that generates assembly code (intel syntax) of some C code and saves it in an output file. |
+| [101-quote.c](101-quote.c) | A C program that prints exactley `and that piece of art is useful" - Dora Korpar, 2015-10-19`, to the standard error. |
