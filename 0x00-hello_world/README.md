@@ -17,3 +17,5 @@ All of the following files are scripts and small programs written in C:
 | [2-assembler](2-assembler) | A script that generates the assembly code of some C code and saves it to an output file. |
 | [3-name](3-name) | A script that compiles a C file and creates an executable named `cisfun`. |
 | [4-puts.c](4-puts.c) | A C program that prints exactley `"Programming is like building a multilingual puzzle`. |
+| [5-printf.c](5-printf.c) | A C program that prints exactley `with proper grammar, but the outcome is a piece of art`.
+| [6-size.c](6-size.c) | A C program that prints the size of various types on the computer it is compiled and run on. |
