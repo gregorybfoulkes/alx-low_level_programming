@@ -13,3 +13,4 @@ All of the following files are scripts and small programs written in C:
 | ***Filename*** | ***Description*** |
 | -------------- | ----------------- |
 | [0-preprocessor](0-preprocessor) | A script that runs a C file through the preprocessor and saves the result in another file. |
+| [1-compiler](1-compiler) | A script that compiles a C file but does not link |
