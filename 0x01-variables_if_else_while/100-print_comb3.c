@@ -1,7 +1,7 @@
 #include <stdio.h>
-
+#include <unistd.h>
 /**
- * main - Prints the numbers from 0 to 99 in ascending order
+ * main - Prints all possible combinations of two digits
  *
  * Return: Always 0 (Success)
  */
@@ -9,17 +9,21 @@ int main(void)
 {
 	int i, j;
 
-	for (i = 0; i < 10; i++)
+	for (i = '0'; i <= '9'; i++)
 	{
-		for (j = 0; j < 10; j++)
+		for (j = '0'; j <= '9'; j++)
 		{
-			putchar((i % 10) + '0');
-			putchar((j % 10) + '0');
+			if ((i < j) & (j <= '9'))
+			{
+				putchar(i);
+				putchar(j);
 
-			if (i == 9 && j == 9)
-				continue;
-			putchar(',');
-			putchar(' ');
+				if ((j < '9') | (i < '8'))
+				{
+					putchar(',');
+					putchar(' ');
+				}
+			}
 		}
 	}
 	putchar('\n');
