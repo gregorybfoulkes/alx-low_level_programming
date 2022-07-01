@@ -21,3 +21,4 @@ All of the following files are small programs written in C:
 | [6-print_numberz.c](6-print_numberz.c) | A C program that prints all single digit numbers of base 10 starting from `0`. |
 | [7-print_tebahpla.c](7-print_tebahpla.c) | A C program that prints the lowercase alphabet in reverse. |
 | [8-print_base16.c](8-print_base16.c) | A C program that prints all the numbers of base 16 in lowercase |
+| [9-print_comb.c](9-print_comb.c) | A C program that prints all possible combinations of single-digit numbers. |
