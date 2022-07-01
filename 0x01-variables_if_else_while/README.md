@@ -19,3 +19,4 @@ All of the following files are small programs written in C:
 | [4-print_alphabet.c](4-print_alphabet.c) | A C program that prints the alphabet except letters `e` and `q`. |
 | [5-print_numbers.c](5-print_numbers.c) | A C program that prints all single digit numbers of base 10 starting from `0`. |
 | [6-print_numberz.c](6-print_numberz.c) | A C program that prints all single digit numbers of base 10 starting from `0`. |
+| [7-print_tebahpla.c](7-print_tebahpla.c) | A C program that prints the lowercase alphabet in reverse. |
