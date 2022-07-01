@@ -17,3 +17,4 @@ All of the following files are small programs written in C:
 | [2-print_alphabet.c](2-print_alphabet.c) | A C program that prints the alphabet in lowercase. |
 | [3-print_alphabets.c](3-print_alphabets.c) | A C program that prints the alphabet in lowrcase and uppercase. |
 | [4-print_alphabet.c](4-print_alphabet.c) | A C program that prints the alphabet except letters `e` and `q`. |
+| [5-print_numbers.c](5-print_numbers.c) | A C program that prints all single digit numbers of base 10 starting from `0`. |
