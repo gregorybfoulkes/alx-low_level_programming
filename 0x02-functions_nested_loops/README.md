@@ -12,8 +12,8 @@ All of the following files are small programs written in C:
 
 | ***Filename*** | ***Description*** |
 |----------------|-------------------|
-| [0-puthchar.c] (0-putchar.c) | A C program that prints `_putchar`. |
-| [1-alphabet.c] (0-putchar.c) | A C program that prints the alphabet in lowercase. |
+| [0-puthchar.c](0-putchar.c) | A C program that prints `_putchar`. |
+| [1-alphabet.c](0-putchar.c) | A C program that prints the alphabet in lowercase. |
 | [2-print_alphabet_x10.c](2-print_alphabet_x10.c) | A C program the alphabet 10 times in lowercase. |
 | [3-islower](3-islower.c)] | A C program that checks for lowercase characters. |
 | [4-isalpha.c](4-isalpha.c)] | A C programs that checks for alphabetic characters. |
