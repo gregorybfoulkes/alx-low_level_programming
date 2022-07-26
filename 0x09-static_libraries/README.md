@@ -12,3 +12,5 @@ All of the following files are small programs written in C:
 
 | ***Filename*** | ***Description*** |
 |----------------|-------------------|
+|[libmy.a](libmy.a) [main.h](main.h)| Created a static library `libmy.a` from prototypes of functions contained in `main.h` file. |
+|[create_static_lib.sh](create_static_lib.sh)| A script `create_static_lib.sh` that craetes a static library called `liball.a` from all the `.c` files present in the current directory. |
