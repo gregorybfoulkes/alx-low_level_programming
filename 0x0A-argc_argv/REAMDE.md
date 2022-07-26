@@ -1,3 +1,0 @@
-# C - argc,arg
-
-## Technologies
